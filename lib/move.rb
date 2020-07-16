@@ -10,8 +10,7 @@ end
 
 def input_to_index(user_input)
   user_input.to_i
-  index = user_input
-  index = index - 1
+
 end
 
  
